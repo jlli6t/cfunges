@@ -1,1 +1,0 @@
-/home/s4506266/scripts/0.Metagenomics/0.blast_result_parse/filter_blast_reuslt-v3.0.py
